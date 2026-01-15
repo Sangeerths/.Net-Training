@@ -1,0 +1,38 @@
+C# History
+
+C# is a OOP language created by Microsoft which runs on .NET Framework.
+
+similar to programming languages like Java and C++.
+
+Andres Hejilsberg created C# in the year 2002.
+
+
+C# is used in mobile, desktop applications, web services, web sites, games, database , VR etc..
+
+C# is one of the most popular programming language with huge community support and it is easy to learn .
+
+
+Variables are containers used to store values
+
+Syntax:       datatype variableName = value;
+
+'const' keyword  will declare the variable as constant which cannot be changed and read-only.
+
+const keyword should alaways require a value, we cannot declare it without value;
+
+Identifiers :  they are the unique names given to variables so that they can be accessed or modified.
+
+
+DataTypes: datatype specifies the type and size of the variable values.
+
+
+a class is a template for objects, and an object is an instance of a class.
+
+Inhertiance is a process in which one class (child class) derives the properties and behavoir of another class (parent class) is known as Inheritance;
+
+Polymorphism is the process in which were the same method can behave differently depending on the object that calls this method.
+
+Abstraction is the process of hiding certain details and showing only essential information to the user.
+
+Encapsulation makes  variables private and create public methods to access and modify them.
+
